@@ -16,17 +16,25 @@ Twinkle, twinkle, little star,
 # Solution: https://www.w3resource.com/python-exercises/python-basic-exercise-1.php
 
 # Ideas:
-"""1. Python escape characters"""
+"""
+1. Python escape characters
+"""
 
 # Steps:
-"""  """
+"""  
+"""
 
 # Notes:
-# 1. https://blog.csdn.net/uuihoo/article/details/79848085
+"""
+1. https://blog.csdn.net/uuihoo/article/details/79848085
+2. https://www.w3schools.com/python/gloss_python_escape_characters.asp
+"""
 
+# Code:
 print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tLike a diamond in the sky. \nTwinkle, twinkle, little star, \nHow I wonder what you are")
         
 
-#  Testing:
-"""  """
+# Testing:
+"""  
+"""
 
