@@ -1,10 +1,23 @@
 # 13. Roman to Integer(https://leetcode.com/problems/roman-to-integer/)
-## Question: 
-Given a roman numeral, convert it to an integer.
+# Question: Given a roman numeral, convert it to an integer.
 
-## Solution:
-Reference: https://www.w3resource.com/python-exercises/class-exercises/python-class-exercise-2.php
-```py
+# Solution: https://www.w3resource.com/python-exercises/class-exercises/python-class-exercise-2.php
+
+# Ideas:
+"""
+to be edited.
+"""
+
+# Steps:
+"""
+1. to be edited.
+"""
+
+# Notes:
+"""
+1. 'IV', 'IV', 'XL', 'XC', 'CD', CM'
+"""
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         rom_val = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
@@ -15,14 +28,13 @@ class Solution:
             else:
                 int_val += rom_val[s[i]]
         return int_val
-```
+        
+#  Testing:
+""" 
+convert = Solution()
+result = convert.intToRoman(4)
+print(result) 
+"""
+ 
 
-## Ideas:
-to be edited. 
-
-## Steps:
-1. to be edited.
-
-## Notes:
-1. 'IV', 'IV', 'XL', 'XC', 'CD', CM'
 
