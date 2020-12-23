@@ -2,6 +2,8 @@
 
 This repository is a record of Python exercises, including some Leetcode problems.
 
+> Notes: Implement environment is Python version: 3.8.3
+
 # Leetcode
 
 1. this is only a placeholder
@@ -17,7 +19,7 @@ This repository is a record of Python exercises, including some Leetcode problem
 3. Return current date and time
 4. Calculate the area of a circule based on radius
 
-## Recursion
+## Recursion (11 Questions)
 
 1. Write a Python program to calculate the sum of a list of numbers.
 2. Write a Python program to converting an Integer to a string in any base.
@@ -30,3 +32,33 @@ This repository is a record of Python exercises, including some Leetcode problem
 9. Write a Python program to calculate the geometric sum of n-1.
 10. Write a Python program to calculate the value of 'a' to the power 'b'.
 11. Write a Python program to find the greatest common divisor (gcd) of two integers.
+
+## Regex
+
+1. Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9).
+
+2. Write a Python program that matches a string that has an a followed by zero or more b's.
+
+3. Write a Python program that matches a string that has an a followed by one or more b's.
+
+4. Write a Python program that matches a string that has an a followed by zero or one 'b'.
+
+5. Write a Python program that matches a string that has an a followed by three 'b'.
+
+6. Write a Python program that matches a string that has an a followed by two to three 'b'.
+
+7. Write a Python program to find sequences of lowercase letters joined with a underscore.
+
+8. Write a Python program to find the sequences of one upper case letter followed by lower case letters.
+
+9. Write a Python program that matches a string that has an 'a' followed by anything, ending in 'b'.
+
+10. Write a Python program that matches a word at the beginning of a string.
+
+to be continued ...
+
+## Python Standard Library
+
+- Data Types
+
+  - [heapq — Heap queue algorithm](https://docs.python.org/3/library/heapq.html) 堆
