@@ -25,7 +25,7 @@ from timer import Timer
 import re
 
 @Timer.timer
-def beginning_of_a_string(string):
+def begin_with_a_word(string):
   patterns = "^\w+"
   x = re.search(patterns, string)
   if x:
@@ -34,5 +34,5 @@ def beginning_of_a_string(string):
     return f'Not matched!'
 
 # Testing:
-print(beginning_of_a_string("The quick brown fox jumps over the lazy dog."))
-print(beginning_of_a_string(" The quick brown fox jumps over the lazy dog."))
+print(begin_with_a_word("The quick brown fox jumps over the lazy dog."))
+print(begin_with_a_word(" The quick brown fox jumps over the lazy dog."))
