@@ -16,14 +16,13 @@
 
 # Notes:
 """
-1. Roman Numeral ranges from 1 to 3,999,999.
 """
 
 # Code:
 import datetime
 x = datetime.datetime.now()
 print("Current date and time: ")
-print(x.strftime("%d-%m-%Y"))
+print(x.strftime("%d-%m-%Y, %H:%M:%S"))
 print(x.strftime("%d %B, %Y"))
         
 
