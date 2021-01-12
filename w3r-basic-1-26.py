@@ -18,13 +18,11 @@
 """
 
 # Code:
-def copyString(str, n):
-  result = ""
-  for _ in range(n):
-    result += str
-  return result
+def histogram(char, lst):
+  for item in lst:
+    print(char * item) 
 
-print(copyString("hello", 2))
+histogram("@", [2, 3, 6, 5])
 
 
 # Testing:

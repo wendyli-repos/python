@@ -18,49 +18,32 @@ This repository is a record of Python exercises, including some Leetcode problem
 2. [Return-Python-version](https://www.w3resource.com/python-exercises/python-basic-exercise-2.php)
 3. Return current date and time.
 4. Calculate the area of a circule based on radius.
-5. Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them. (20210107\*)
-6. Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers. (20210107\*)
-7. Write a Python program to accept a filename from the user and print the extension of that. (20210107\*)
-8. Write a Python program to display the first and last colors from the following list. (20210107\*)
-9. Write a Python program to display the examination schedule. (extract the date from exam_st_date). (20210107 \*\*)
-10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn. (20210107\*)
-11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s). (20210108\*)
-12. Write a Python program to print the calendar of a given month and year. (20210108\*)
-13. Write a Python program to print the following here document. (20210108\*)
-14. Write a Python program to calculate number of days between two dates. (20201901\*)
-15. Write a Python program to get the volume of a sphere with radius 6. (20210109\*)
-16. Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference. (20210109\*)
-17. Write a Python program to test whether a number is within 100 of 1000 or 2000. (20210109\*)
-18. Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum. (20210109\*)
-19. Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged. (20210109\*)
-20. Write a Python program to get a string which is n (non-negative integer) copies of a given string. (20210109\*, similar to Q10)
-21. Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user. (20210109\*)
-22. Write a Python program to count the number 4 in a given list. (20210109\*)
-23. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2. (20210109\*)
-24. Write a Python program to test whether a passed letter is a vowel or not. (20210109\*)
-25. Write a Python program to check whether a specified value is contained in a group of values. (20210109\*)
-26. Write a Python program to create a histogram from a given list of integers.
-27. Write a Python program to concatenate all elements in a list into a string and return it.
-28. Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. Go to the editor
-    Sample numbers list :
-
-numbers = [
-386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345,
-399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949, 687, 217,
-815, 67, 104, 58, 512, 24, 892, 894, 767, 553, 81, 379, 843, 831, 445, 742, 717,
-958,743, 527
-]
-Click me to see the sample solution
-
-29. Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2. Go to the editor
-    Test Data :
-    color_list_1 = set(["White", "Black", "Red"])
-    color_list_2 = set(["Red", "Green"])
-    Expected Output :
-    {'Black', 'White'}
-    Click me to see the sample solution
-
-30. Write a Python program that will accept the base and height of a triangle and compute the area.
+5. Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them. (2021.01.07\*)
+6. Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers. (2021.01.07\*)
+7. Write a Python program to accept a filename from the user and print the extension of that. (2021.01.07\*)
+8. Write a Python program to display the first and last colors from the following list. (2021.01.07\*)
+9. Write a Python program to display the examination schedule. (extract the date from exam_st_date). (2021.01.07 \*\*)
+10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn. (2021.01.07\*)
+11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s). (2021.01.08\*)
+12. Write a Python program to print the calendar of a given month and year. (2021.01.08\*)
+13. Write a Python program to print the following here document. (2021.01.08\*)
+14. Write a Python program to calculate number of days between two dates. (2021.01.09\*)
+15. Write a Python program to get the volume of a sphere with radius 6. (2021.01.09\*)
+16. Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference. (2021.01.09\*)
+17. Write a Python program to test whether a number is within 100 of 1000 or 2000. (2021.01.09\*)
+18. Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum. (2021.01.09\*)
+19. Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged. (2021.01.09\*)
+20. Write a Python program to get a string which is n (non-negative integer) copies of a given string. (2021.01.09\*, similar to Q10)
+21. Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user. (2021.01.09\*)
+22. Write a Python program to count the number 4 in a given list. (2021.01.09\*)
+23. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2. (2021.01.09\*)
+24. Write a Python program to test whether a passed letter is a vowel or not. (2021.01.09\*)
+25. Write a Python program to check whether a specified value is contained in a group of values. (2021.01.09\*)
+26. Write a Python program to create a histogram from a given list of integers. (2021.01.12\*)
+27. Write a Python program to concatenate all elements in a list into a string and return it. (2021.01.12\*)
+28. Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. (2021.01.12\*)
+29. Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2. (2021.01.12\*) [Set]
+30. Write a Python program that will accept the base and height of a triangle and compute the area. (2021.01.12\*)
 31. Write a Python program to compute the greatest common divisor (GCD) of two positive integers.
 32. Write a Python program to get the least common multiple (LCM) of two positive integers.
 33. Write a Python program to sum of three given integers. However, if two values are equal sum will be zero.

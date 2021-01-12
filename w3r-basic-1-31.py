@@ -1,8 +1,8 @@
-# 20. Write a Python program to get a string which is n (non-negative integer) copies of a given string.
+# 31. Write a Python program to compute the greatest common divisor (GCD) of two positive integers.
 # Question: 
 # Input: 
 # Output:
-# Solution: https://www.w3resource.com/python-exercises/python-basic-exercise-20.php
+# Solution: https://www.w3resource.com/python-exercises/python-basic-exercise-31.php
 
 # Ideas:
 """
