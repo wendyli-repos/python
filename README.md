@@ -44,25 +44,17 @@ This repository is a record of Python exercises, including some Leetcode problem
 28. Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. (2021.01.12\*)
 29. Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2. (2021.01.12\*) [Set]
 30. Write a Python program that will accept the base and height of a triangle and compute the area. (2021.01.12\*)
-31. Write a Python program to compute the greatest common divisor (GCD) of two positive integers.
-32. Write a Python program to get the least common multiple (LCM) of two positive integers.
-33. Write a Python program to sum of three given integers. However, if two values are equal sum will be zero.
-34. Write a Python program to sum of two given integers. However, if the sum is between 15 to 20 it will return 20.
-35. Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5.
-36. Write a Python program to add two objects if both objects are an integer type.
-37. Write a Python program to display your details like name, age, address in three different lines.
-38. Write a Python program to solve (x + y) \* (x + y). Go to the editor
-    Test Data : x = 4, y = 3
-    Expected Output : (4 + 3) ^ 2) = 49
-    Click me to see the sample solution
-
-39. Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. Go to the editor
-    Test Data : amt = 10000, int = 3.5, years = 7
-    Expected Output : 12722.79
-    Click me to see the sample solution
-
-40. Write a Python program to compute the distance between the points (x1, y1) and (x2, y2).
-41. Write a Python program to check whether a file exists.
+31. Write a Python program to compute the greatest common divisor (GCD) of two positive integers. (2021.01.12\*) [Recursion]
+32. Write a Python program to get the least common multiple (LCM) of two positive integers. (2021.01.12\*) [Recursion]
+33. Write a Python program to sum of three given integers. However, if two values are equal sum will be zero. (2021.01.12\*)
+34. Write a Python program to sum of two given integers. However, if the sum is between 15 to 20 it will return 20. (2021.01.12\*)
+35. Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5. (2021.01.12\*)
+36. Write a Python program to add two objects if both objects are an integer type. (2021.01.12\*)
+37. Write a Python program to display your details like name, age, address in three different lines. (2021.01.12\*)
+38. Write a Python program to solve (x + y) \* (x + y). (2021.01.12\*)
+39. Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. (2021.01.12\*)
+40. Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). (2021.01.12\*)
+41. Write a Python program to check whether a file exists. (2021.01.12\*) [os]
 42. Write a Python program to determine if a Python shell is executing in 32bit or 64bit mode on OS.
 43. Write a Python program to get OS name, platform and release information.
 44. Write a Python program to locate Python site-packages.
