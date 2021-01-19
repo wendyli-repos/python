@@ -55,10 +55,10 @@ This repository is a record of Python exercises, including some Leetcode problem
 39. Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. (2021.01.12\*)
 40. Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). (2021.01.12\*)
 41. Write a Python program to check whether a file exists. (2021.01.12\*) [os]
-42. Write a Python program to determine if a Python shell is executing in 32bit or 64bit mode on OS.
-43. Write a Python program to get OS name, platform and release information.
-44. Write a Python program to locate Python site-packages.
-45. Write a python program to call an external command in Python.
+42. Write a Python program to determine if a Python shell is executing in 32bit or 64bit mode on OS. (2021.01.19\*) [struct]
+43. Write a Python program to get OS name, platform and release information. (2021.01.19\*) [platform] [os]
+44. Write a Python program to locate Python site-packages. (2021.01.19\*) [site]
+45. Write a python program to call an external command in Python. (2021.01.19\*) [subprocess] [do not understand]
 46. Write a python program to get the path and name of the file that is currently executing.
 47. Write a Python program to find out the number of CPUs using.
 48. Write a Python program to parse a string to Float or Integer.
