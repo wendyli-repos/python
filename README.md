@@ -59,27 +59,24 @@ This repository is a record of Python exercises, including some Leetcode problem
 43. Write a Python program to get OS name, platform and release information. (2021.01.19\*) [platform] [os]
 44. Write a Python program to locate Python site-packages. (2021.01.19\*) [site]
 45. Write a python program to call an external command in Python. (2021.01.19\*) [subprocess] [do not understand]
-46. Write a python program to get the path and name of the file that is currently executing.
-47. Write a Python program to find out the number of CPUs using.
-48. Write a Python program to parse a string to Float or Integer.
-49. Write a Python program to list all files in a directory in Python.
-50. Write a Python program to print without newline or space.
-51. Write a Python program to determine profiling of Python programs. Go to the editor
-    Note: A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module.
-    Click me to see the sample solution
-
-52. Write a Python program to print to stderr.
-53. Write a python program to access environment variables.
-54. Write a Python program to get the current username
-55. Write a Python to find local IP addresses using Python's stdlib
-56. Write a Python program to get height and width of the console window.
-57. Write a program to get execution time for a Python method.
-58. Write a python program to find the sum of the first n positive integers.
-59. Write a Python program to convert height (in feet and inches) to centimeters.
-60. Write a Python program to calculate the hypotenuse of a right angled triangle.
-61. Write a Python program to convert the distance (in feet) to inches, yards, and miles.
-62. Write a Python program to convert all units of time into seconds.
-63. Write a Python program to get an absolute file path.
+46. Write a python program to get the path and name of the file that is currently executing. (2021.01.20\*) [os]
+47. Write a Python program to find out the number of CPUs using. (2021.01.20\*) [multiprocessing]
+48. Write a Python program to parse a string to Float or Integer. (2021.01.20\*)
+49. Write a Python program to list all files in a directory in Python. (2021.01.20\*) [lisdir, isfile, join] [**notworking**]
+50. Write a Python program to print without newline or space. (2021.01.20\*)
+51. Write a Python program to determine profiling of Python programs. (2021.01.20\*)[pstats, profile, cProfile]
+52. Write a Python program to print to stderr. (2021.01.20\*) [os, print_function][**notworking**]
+53. Write a python program to access environment variables. (2021.01.20\*)[os]
+54. Write a Python program to get the current username. (2021.01.20\*)[getpass]
+55. Write a Python to find local IP addresses using Python's stdlib. (2021.01.20\*)[socket][**notworking**]
+56. Write a Python program to get height and width of the console window. (2021.01.20\*)[os]
+57. Write a program to get execution time for a Python method. (2021.01.20\*)[decorators]
+58. Write a python program to find the sum of the first n positive integers. (2021.01.20\*)
+59. Write a Python program to convert height (in feet and inches) to centimeters. (2021.01.20\*)
+60. Write a Python program to calculate the hypotenuse of a right angled triangle. (2021.01.20\*)
+61. Write a Python program to convert the distance (in feet) to inches, yards, and miles. (2021.01.20\*)
+62. Write a Python program to convert all units of time into seconds. (2021.01.20\*)
+63. Write a Python program to get an absolute file path. (2021.01.20\*)[os]
 64. Write a Python program to get file creation and modification date/times.
 65. Write a Python program to convert seconds to day, hour, minutes and seconds.
 66. Write a Python program to calculate body mass index.
